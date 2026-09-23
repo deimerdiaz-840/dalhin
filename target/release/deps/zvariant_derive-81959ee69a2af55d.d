@@ -1,0 +1,11 @@
+/home/dalhin/Descargas/dalhin(2)/dalhin/target/release/deps/zvariant_derive-81959ee69a2af55d.d: /home/dalhin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zvariant_derive-5.13.1/src/lib.rs /home/dalhin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zvariant_derive-5.13.1/src/dict.rs /home/dalhin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zvariant_derive-5.13.1/src/signature.rs /home/dalhin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zvariant_derive-5.13.1/src/type.rs /home/dalhin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zvariant_derive-5.13.1/src/utils.rs /home/dalhin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zvariant_derive-5.13.1/src/value.rs /home/dalhin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zvariant_derive-5.13.1/src/../README.md
+
+/home/dalhin/Descargas/dalhin(2)/dalhin/target/release/deps/libzvariant_derive-81959ee69a2af55d.so: /home/dalhin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zvariant_derive-5.13.1/src/lib.rs /home/dalhin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zvariant_derive-5.13.1/src/dict.rs /home/dalhin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zvariant_derive-5.13.1/src/signature.rs /home/dalhin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zvariant_derive-5.13.1/src/type.rs /home/dalhin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zvariant_derive-5.13.1/src/utils.rs /home/dalhin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zvariant_derive-5.13.1/src/value.rs /home/dalhin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zvariant_derive-5.13.1/src/../README.md
+
+/home/dalhin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zvariant_derive-5.13.1/src/lib.rs:
+/home/dalhin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zvariant_derive-5.13.1/src/dict.rs:
+/home/dalhin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zvariant_derive-5.13.1/src/signature.rs:
+/home/dalhin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zvariant_derive-5.13.1/src/type.rs:
+/home/dalhin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zvariant_derive-5.13.1/src/utils.rs:
+/home/dalhin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zvariant_derive-5.13.1/src/value.rs:
+/home/dalhin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zvariant_derive-5.13.1/src/../README.md:
