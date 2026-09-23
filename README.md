@@ -14,7 +14,7 @@ chequeo del sistema para DXVK/Vulkan.
   git clone https://github.com/TU_USUARIO/dalhin.git
   ```
 
-- **Binario compilado**: revisá la sección [Releases](https://github.com/TU_USUARIO/dalhin/releases)
+- **Binario compilado**: revisá la sección [Releases](https://github.com/deimerdiaz-840/dalhin/releases)
   del repositorio, si hay una versión ya compilada disponible para descargar.
 
 ## Compilar desde el código fuente
