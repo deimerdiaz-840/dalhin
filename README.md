@@ -5,10 +5,25 @@ chequeo del sistema para DXVK/Vulkan.
 
 ![license](https://img.shields.io/badge/license-GPL--3.0-blue)
 
-<img width="1366" height="732" alt="01" src="https://github.com/user-attachments/assets/eed06630-5012-47e0-8166-3765ed3c701f" />
-<img width="1017" height="735" alt="03" src="https://github.com/user-attachments/assets/a5a939d9-73e1-43a2-993e-07d9e7badc51" />
-<img width="1019" height="732" alt="02" src="https://github.com/user-attachments/assets/757f6dea-4c61-41f4-8b0e-79de26696ed8" />
 
+<table>
+<tr>
+<td><img width="420" alt="01" src="https://github.com/user-attachments/assets/eed06630-5012-47e0-8166-3765ed3c701f" /></td>
+<td><img width="420" alt="03" src="https://github.com/user-attachments/assets/a5a939d9-73e1-43a2-993e-07d9e7badc51" /></td>
+</tr>
+<tr>
+<td><img width="420" alt="02" src="https://github.com/user-attachments/assets/757f6dea-4c61-41f4-8b0e-79de26696ed8" /></td>
+<td><img width="420" alt="08" src="https://github.com/user-attachments/assets/8630a4d2-64b1-4dcd-b7dd-51db875ef9b8" /></td>
+</tr>
+<tr>
+<td><img width="420" alt="07" src="https://github.com/user-attachments/assets/9f223524-4692-48e7-9fbd-cf8cc0e71e64" /></td>
+<td><img width="420" alt="05" src="https://github.com/user-attachments/assets/cf46f54d-4df4-4fbe-880a-fc5c15f78469" /></td>
+</tr>
+<tr>
+<td><img width="420" alt="04" src="https://github.com/user-attachments/assets/3fa4bda0-d8d0-4da2-b858-93f5d6d2371a" /></td>
+<td></td>
+</tr>
+</table>
 
 ## Descargar y ejecutar (binario ya compilado)
 
