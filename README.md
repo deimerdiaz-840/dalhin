@@ -5,17 +5,55 @@ chequeo del sistema para DXVK/Vulkan.
 
 ![license](https://img.shields.io/badge/license-GPL--3.0-blue)
 
-## Descargar
+## Descargar y ejecutar (binario ya compilado)
 
-- **Código fuente**: desde este repositorio, botón verde **Code → Download ZIP**
+La forma más rápida de usar Dalhin es descargar el ejecutable ya compilado,
+sin necesidad de instalar Rust ni compilar nada:
+
+1. Andá a la sección [Releases](https://github.com/deimerdiaz-840/dalhin/releases)
+   del repositorio y descargá el binario de la última versión.
+2. Dale permiso de ejecución al archivo descargado:
+
+   ```bash
+   chmod +x dalhin
+   ```
+
+3. Ejecutalo:
+
+   ```bash
+   ./dalhin
+   ```
+
+Al abrirse, Dalhin revisa si tu sistema tiene instalado `wine`, la
+arquitectura `i386` (necesaria para apps de 32 bits), `vulkan-tools` y el
+driver Vulkan de Mesa (para DXVK). Si te falta algo, te lo indica y te ofrece
+un botón para **instalar lo que falta** (te va a pedir la contraseña de
+administrador). No hace falta que instales Wine vos mismo de antemano: podés
+dejar que la propia aplicación lo instale por vos, o instalarlo manualmente
+antes si preferís.
+
+Si preferís instalar todo manualmente antes de abrir la app, en distros
+basadas en Debian/Ubuntu podés hacerlo así:
+
+```bash
+sudo dpkg --add-architecture i386
+sudo apt update
+sudo apt install wine wine32 vulkan-tools mesa-vulkan-drivers
+```
+
+En otras distros los paquetes se llaman distinto (por ejemplo `wine-staging`,
+`lib32-mesa`, `vulkan-icd-loader` en Arch, o `wine.i686`, `vulkan-tools`,
+`mesa-vulkan-drivers` en Fedora), así que revisá el gestor de paquetes de tu
+sistema si no usás Debian/Ubuntu.
+
+## Descargar el código fuente
+
+- Desde este repositorio, botón verde **Code → Download ZIP**
   (arriba a la derecha en GitHub), o clonando con git:
 
   ```bash
-  git clone https://github.com/TU_USUARIO/dalhin.git
+  git clone https://github.com/deimerdiaz-840/dalhin.git
   ```
-
-- **Binario compilado**: revisá la sección [Releases](https://github.com/deimerdiaz-840/dalhin/releases)
-  del repositorio, si hay una versión ya compilada disponible para descargar.
 
 ## Compilar desde el código fuente
 
@@ -54,5 +92,3 @@ Este proyecto está licenciado bajo la **GNU General Public License v3.0**
 En resumen: sos libre de usar, estudiar, modificar y redistribuir este
 software, pero cualquier trabajo derivado que redistribuyas también tiene
 que estar bajo GPL-3.0 y con el código fuente disponible.
-# dalhin
-# dalhin
