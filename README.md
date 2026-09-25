@@ -58,7 +58,7 @@ basadas en Debian/Ubuntu podés hacerlo así:
 ```bash
 sudo dpkg --add-architecture i386
 sudo apt update
-sudo apt install wine wine32 vulkan-tools mesa-vulkan-drivers
+sudo apt install wine wine32 wine64 vulkan-tools mesa-vulkan-drivers
 ```
 
 En otras distros los paquetes se llaman distinto (por ejemplo `wine-staging`,
